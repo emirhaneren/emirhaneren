@@ -7,7 +7,7 @@
 <br>
 - ⚡ Fun fact: Coding 💻, Video Games🎮 and Math📖.
 <br>
--🌱 I’m currently learning world.🌎
+-🌱 I’m currently learning🌎
 <br>
 
 ### 📩 Connect with me:
@@ -15,12 +15,12 @@
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
 
 <br />
-
 
 [instagram]: https://www.instagram.com/emirhanerenn/
 [linkedin]: https://www.linkedin.com/in/emirhaneren/
 [gmail]: mailto:emirhanneren52@gmail.com
+[discord]: emirhaneren#3559
 <br />
