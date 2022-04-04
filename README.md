@@ -48,7 +48,7 @@
 
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/emirhaneren
 [python]: https://www.python.org/
 [cpp]: https://www.w3schools.com/CPP/default.asp
 [java]: https://www.java.com/tr/
