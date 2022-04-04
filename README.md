@@ -3,6 +3,8 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - 👨‍🎓 I'm a software engineering student at Doğuş University.
 <br>
+- 👨‍🎓 I'm a management information systems student at Anadolu University.
+<br>
 - 📫 How to reach me: emirhanneren52@gmail.com
 <br>
 - ⚡ Fun fact: Coding 💻, Video Games🎮 and Math📖.
