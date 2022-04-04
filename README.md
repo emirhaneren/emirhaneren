@@ -1,16 +1,26 @@
 ### Hi 👋, I'm Emirhan
 
-<!--
-**emirhaneren/emirhaneren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 I'm a software engineering student at Doğuş University.
+<br>
+- 📫 How to reach me: emirhanneren52@gmail.com
+<br>
+- ⚡ Fun fact: Coding 💻, Video Games🎮 and Math📖.
+<br>
+-🌱 I’m currently learning world.🌎
+<br>
+
+### 📩 Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+
+<br />
+
+
+[instagram]: https://www.instagram.com/emirhanerenn/
+[linkedin]: https://www.linkedin.com/in/emirhaneren/
+[gmail]: mailto:emirhanneren52@gmail.com
+<br />
